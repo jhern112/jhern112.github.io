@@ -10,7 +10,7 @@
   <h1> Welcome </h1>
 
   <nav>
-      <<a href = "#">Home</a>
+      <a href = "#">Home</a>
       <a href = "#">About</a>
       <a href = "#">Contact</a>
   </nav>
