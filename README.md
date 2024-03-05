@@ -3,6 +3,12 @@
 
 <head>
   <title> My Web Page </title>
+  <link href="styles/style.css" rel="stylesheet" />
+    p,
+  ul,
+  {
+  color: white
+  }
 </head>
 
 <body>
