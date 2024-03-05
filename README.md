@@ -2,9 +2,7 @@
 <html>
 
 <head>
-  <title> My Web Page </title>
-  <link rel="stylesheet" href="style.css">
-  
+  <title> My Web Page </title>  
 </head>
 
 <body>
