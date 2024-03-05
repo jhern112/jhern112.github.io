@@ -7,7 +7,7 @@
 
 <body>
   <header>
-  <h1> Welcome </h1>
+  <h1> Welcome to my Website! </h1>
 
   <nav>
       <a href = "#">Home</a>
