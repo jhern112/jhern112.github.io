@@ -1,11 +1,11 @@
 html {
    background-color: gray;
+   font-family: Arial
 }
 
 header {
    text-align: center; 
    Padding: 30px;
-   font-family: Arial
 }
 
 nav {
@@ -13,7 +13,6 @@ nav {
    word-spacing: 30px;
    Padding: 20px;
    background-color: gray;
-   font-color: white;
-   font-family: Arial;
+   color: white;
 }
 
