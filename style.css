@@ -1,14 +1,15 @@
 header {
    text-align: center; 
    Padding: 30px;
-   font family: Arial
+   font-family: Arial
 }
 
 nav {
    text-align: center;
    word-spacing: 30px;
    Padding: 20px;
-   background-color: blue;
-   font family: Arial
+   background-color: green;
+   font-color: black;
+   font-family: Arial;
 }
 
