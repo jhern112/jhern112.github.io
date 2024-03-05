@@ -1,1 +1,11 @@
-
+/*header style*/
+header {
+   text-align: center; 
+   padding: 20px;
+}
+/*navigation menu style*/
+nav {
+   text-align: center;
+   word-spacing: 30px;
+   Padding: 10px;
+}
