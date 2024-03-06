@@ -9,10 +9,12 @@
   <header>
   <h1> Welcome to my Website! </h1>
 
-  <nav>
-      <a href = "#">Home</a>
-      <a href = "#">About</a>
-      <a href = "#">Contact</a>
+   <nav class = "Navigation">
+    <ul>
+      <li><a href = "index.html">Home</a></li>
+      <li><a href = "about.html">About</a></li>
+      <li><a href = "contact.html">Contact</a></li>
+    </ul>
   </nav>
     
   </header>
