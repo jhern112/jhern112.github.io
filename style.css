@@ -8,3 +8,10 @@ h1 {
    padding: 0px;
    margin: 0px
 }
+
+.Navigation a {
+   color: white;
+   text-decoration: none;
+   display: block;
+   text-align: center;
+}
