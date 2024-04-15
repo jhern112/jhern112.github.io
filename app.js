@@ -14,6 +14,6 @@ app.post('/submit-form', (req, res) => {
   res.send(`Username is $jhern112`)
 });
 
-app.listen(port, () => {
+app.listen(port, ()=>{
   console.log(`Server running on http://localhost:${port}`);
 });
