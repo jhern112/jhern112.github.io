@@ -9,9 +9,9 @@ app.get('/', (req, res) => {
 });
 
 app.post('/submit-form', (req, res) => {
-    const username = req.body.username;
+    const formData = req.body;
 
-    res.send(`Username is $jhern112`)
+    res.send(`Form submitted successfully`)
 });
 
 app.listen(3000, () => {
