@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const bodyParser = require('body-parser');
 
-app.use(express.urlencoded({extended: true}))
+app.use(bodyParser.urlencoded({extended: true}))
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
@@ -14,6 +14,6 @@ app.post('/submit-form', (req, res) => {
     res.send(`Username is $jhern112`)
 });
 
-app.listen(port, () => {
-    console.log(`Server running on http://localhost:${port}`);
+app.listen(3000, () => {
+    console.log(`Server running on port 3000`);
 });
