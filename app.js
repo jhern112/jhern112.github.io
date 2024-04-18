@@ -11,9 +11,6 @@ app.get('/', (req, res) => {
 app.post('/submit-form', (req, res) => {
     const username = req.body.username;
 
-    //res.send(`Username iiis ` + username)
-    /// .css missing
-    // .htlm absolue path vs relative path
     res.sendFile('/Users/javier/Web Project/home.html')
 });
 
