@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 app.post('/submit-form', (req, res) => {
     const username = req.body.username;
 
-    res.sendFile('/Users/javier/Web Project/home.html')
+    res.redirect('/Users/javier/Web Project/home.html')
 });
 
 app.listen(port, () => {
