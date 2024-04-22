@@ -31,7 +31,7 @@ p {
 }
 
 p2 {
-   text-align: right;
+   float: right;
    line-height: 2em;
    margin-bottom: 32px;
 }
