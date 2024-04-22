@@ -1,1 +1,1 @@
-src = "https://www.geeksforgeek.org/js/script.js"
+alert('This is a practice alert, press close to continue.')
