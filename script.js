@@ -1,1 +1,1 @@
-alert('Hello! This website is going through some maintenance. This website will be completely functional soon!')
+src = "https://www.geeksforgeek.org/js/script.js"
