@@ -27,5 +27,11 @@ h3 {
 p {
    text-align: center;
    line-height: 2em;
-   margin bottom: 32px;
+   margin-bottom: 32px;
+}
+
+p2 {
+   text-align: right;
+   line-height: 2em;
+   margin-bottom: 32px;
 }
