@@ -25,7 +25,7 @@ h3 {
 }
 
 p {
-   text-align: center;
+   text-align: right;
    line-height: 2em;
    margin-bottom: 32px;
 }
@@ -35,3 +35,4 @@ p2 {
    line-height: 2em;
    margin-bottom: 32px;
 }
+
